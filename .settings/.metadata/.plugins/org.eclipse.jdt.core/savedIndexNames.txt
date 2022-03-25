@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\sde01\Desktop\Github\JAVA_PT\firstjava\.settings\.metadata\.plugins\org.eclipse.jdt.core
+814037870.index
+1865797976.index
+1803265705.index
+1133099276.index
+1210658807.index

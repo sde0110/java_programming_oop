@@ -1,0 +1,24 @@
+package myclass.java;
+
+import java.util.Scanner; // 스캐너 클래스 사용
+
+public class num2 {
+	public static void main(String[] args) {
+		System.out.println("2자리수 정수 입력(10~99)>>"); //첫 출력문
+		Scanner scanner = new Scanner(System.in); //입력 지시
+		final int su = scanner.nextInt();		
+		final int sip = su/10; 
+		final int il = su%10;
+		
+		if (sip==il) {
+			System.out.print("Yes! 10의 자리와 1의 자리가 같습니다.");
+		}
+		else {
+			System.out.print("No! 10의 자리와 1의 자리가 다릅니다.");
+		}
+		
+		
+
+	}
+
+}
